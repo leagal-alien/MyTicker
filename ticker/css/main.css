@@ -1,0 +1,35 @@
+html, body {
+    font-family: 'Quattrocento', serif;
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+    background:url(https://kachibito.net/sample/Alice/demos/common/ios-linen.jpg);
+    color: #aaa;
+}
+
+a { color: #e8d421; text-decoration: none; }
+a:hover { color: #e82134; }
+
+h1{
+background: #1d1d1d ;
+    margin: 0 ;
+    padding: 5px 0px 5px 50px;
+    opacity: 0.85 ;
+}
+
+.ticker {
+    width: 600px;
+    height: 60px;
+    overflow: hidden;
+    margin: 60px 0 0 35px;
+    padding: 0;
+    list-style: none;
+    text-shadow: 0px 1px 1px #000;
+    font-size: 25px;
+}
+
+.ticker li {
+    height: 60px;
+    padding: 5px;
+    margin: 0px 5px;
+}
